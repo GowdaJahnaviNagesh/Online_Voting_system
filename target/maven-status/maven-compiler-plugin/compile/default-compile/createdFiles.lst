@@ -1,0 +1,10 @@
+com\votingsystem\LoginVoter.class
+com\votingsystem\ResultPage$1.class
+com\votingsystem\RegisterVoter.class
+com\votingsystem\AdminLogin.class
+com\votingsystem\VotePage.class
+com\votingsystem\ResultPage.class
+com\votingsystem\AdminDashboard.class
+com\votingsystem\AdminDashboard$1.class
+com\votingsystem\Online_voting_system.class
+com\votingsystem\DBConnection.class
